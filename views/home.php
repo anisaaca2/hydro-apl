@@ -10,6 +10,6 @@
 </head>
 <body>
     <h1 class="text-red-400">Selamat Datang di Hydro</h1>
-    <a href="/hydro-apl/produk">Lihat Produk</a>
+    <a href="/hydro-apl/produk">Lihat produk</a>
 </body>
 </html>
